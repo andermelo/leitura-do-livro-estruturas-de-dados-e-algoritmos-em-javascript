@@ -2,4 +2,5 @@
 
 Notas de leitura do livro
 
-![Estruturas de dados e algoritmos em JavaScript](https://octodex.github.com/images/yaktocat.png)
+![Estruturas de dados e algoritmos em JavaScript](/assets/images/livro-estruturas-de-dados-e-algoritmos-em-javascript.jpg)
+
