@@ -17,4 +17,4 @@ Notas e códigos da leitura do livro :blue_heart:
 1. Grafos
 1. Algoritmos de ordenação e de busca
 1. Padrões de algoritmos
-1. Complexidade de algotirmos
+1. Complexidade de algoritmos
