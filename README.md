@@ -7,3 +7,14 @@ Notas e códigos da leitura do livro :blue_heart:
 ### Sumário
 
 1. JavaScript - uma rápida visão geral
+1. Arrays
+1. Pilhas
+1. Filas
+1. Lista ligadas
+1. Conjuntos
+1. Dicionários e hashes
+1. Árvores
+1. Grafos
+1. Algoritmos de ordenação e de busca
+1. Padrões de algoritmos
+1. Complexidade de algotirmos
